@@ -1,2 +1,1 @@
-# android_device_samsung_a7y18lte
-Galaxy A7 2018 Device Tree (WIP)
+## TWRP device tree for Samsung Galaxy A7 2018 (a7y18lte)
