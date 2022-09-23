@@ -19,4 +19,3 @@ Release Month | September 2018
  
 ![Samsung Galaxy A7 2018](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a7-sm-a750f.jpg "Samsung Galaxy A7 2018")
 
-Based on A107FXXU8BUC2 Firmware
