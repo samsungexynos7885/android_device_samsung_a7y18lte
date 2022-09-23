@@ -21,6 +21,17 @@ TARGET_2ND_CPU_ABI := armeabi-v7a
 TARGET_2ND_CPU_ABI2 := armeabi
 TARGET_2ND_CPU_VARIANT := cortex-a53
 
+# SHRP Props
+SHRP_MAINTAINER := ItzKaguya
+SHRP_DEVICE_CODE := a7y18lte
+SHRP_EXPRESS := true
+SHRP_DARK := true
+SHRP_EDL_MODE := 1
+SHRP_EXTERNAL := /external_sd
+SHRP_INTERNAL := /sdcard
+SHRP_OTG := /usb_otg
+SHRP_FLASH := 1
+
 # Kernel
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_CONFIG := exynos7885-a7y18lte_defconfig
